@@ -136,10 +136,10 @@ http://localhost:8080/swagger-ui/index.html
 ```json
 POST /api/auth/register
 {
-  "username": "khoa",
-  "email": "khoa@example.com",
+  "username": "phuc",
+  "email": "phuc@example.com",
   "password": "123456",
-  "fullName": "Đoàn Đăng Khoa"
+  "fullName": "Cao Huu Phuc"
 }
 ```
 
